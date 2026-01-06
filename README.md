@@ -99,49 +99,6 @@ The system follows a modular, component-based architecture featuring:
 
 ---
 
-## 📂 Project Structure
-
-MediConnect/
-│
-├── src/
-│ ├── components/
-│ ├── pages/
-│ ├── services/
-│ ├── assets/
-│ │ └── screenshots/
-│ └── styles/
-│
-├── public/
-├── README.md
-└── package.json
-
-yaml
-Copy code
-
----
-
-## ▶️ Running the Application
-
-Clone the repository, install dependencies, and start the development server using standard package management commands. The application runs locally and is designed to be easily extended or deployed.
-
----
-
-## 🖼️ Visual Preview & Animations
-
-Screenshots and animated previews can be added to this README to demonstrate:
-
-- Admin dashboard control  
-- Role-based navigation flow  
-- Smooth page transitions  
-- Animated interactions and visual feedback  
-
-Example usage:
-
-
-yaml
-Copy code
-
----
 
 ## 📈 Future Enhancements
 
@@ -164,8 +121,3 @@ This project is developed for academic purposes with a strong emphasis on usabil
 **Muhammad Asim**  
 Software Engineering Student  
 COMSATS University, Abbottabad  
-
----
-
-MediConnect represents a polished and modern healthcare management system, combining functionality, smooth motion, and visual refinement into a single cohesive digital experience.
-✅ This version is:
